@@ -7,7 +7,7 @@ UPDATE 12-April-2019
 <li>$ pkg update && pkg upgrade
 <li>$ pkg install php
 <li>$ pkg install git
-<li>$ git clone https://github.com/Mrrlughawiyah/SpamCall.git
+<li>$ git clone https://github.com/Mrrlughawiyah/SpamCall
 <li>$ cd SpamSms
 <li>$ php SpamCall.php
 <li> Masukan No Target ===> 
